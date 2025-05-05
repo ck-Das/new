@@ -1,0 +1,5 @@
+unit quality
+integration quality
+smoke quality
+regresson quality
+system quality

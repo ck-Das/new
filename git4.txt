@@ -1,0 +1,7 @@
+unit testing
+integration testing
+smoke testing
+sanity testing
+regresson testing
+system testing
+user acceptance testing
